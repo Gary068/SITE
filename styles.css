@@ -22,6 +22,7 @@ body {
     position: relative;
     color: white;
     margin-bottom: 0;
+    max-height: 55vh;
 
 }
 
